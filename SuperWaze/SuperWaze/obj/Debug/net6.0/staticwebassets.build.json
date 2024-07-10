@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "00AgLiNRbEwQ9BiMycjoHTMU6YsfX/Tlq4pYPJYsjJE=",
+  "Source": "SuperWaze",
+  "BasePath": "_content/SuperWaze",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

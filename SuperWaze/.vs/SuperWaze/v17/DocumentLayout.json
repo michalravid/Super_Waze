@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CAC87-74E5-4CF6-89D4-71E779EE76AB}|MODELS\\MODELS.csproj|c:\\users\\a\\michal\\learning\\b\\.net core_angular\\superwaze\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8CAC87-74E5-4CF6-89D4-71E779EE76AB}|MODELS\\MODELS.csproj|solutionrelative:models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDDF60B-B970-4A82-8566-9365A63F40F8}|SuperWaze\\SuperWaze.csproj|c:\\users\\a\\michal\\learning\\b\\.net core_angular\\superwaze\\superwaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDDF60B-B970-4A82-8566-9365A63F40F8}|SuperWaze\\SuperWaze.csproj|solutionrelative:superwaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\MODELS\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "MODELS\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\MODELS\\ProjectContext.cs",
+              "RelativeToolTip": "MODELS\\ProjectContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:45:07.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\SuperWaze\\Program.cs",
+              "RelativeDocumentMoniker": "SuperWaze\\Program.cs",
+              "ToolTip": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\SuperWaze\\Program.cs",
+              "RelativeToolTip": "SuperWaze\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:54:31.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

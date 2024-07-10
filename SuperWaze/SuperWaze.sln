@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperWaze", "SuperWaze\SuperWaze.csproj", "{8BDDF60B-B970-4A82-8566-9365A63F40F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{A81E7781-86D8-426B-8182-6DD341B652A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MODELS", "MODELS\MODELS.csproj", "{0A8CAC87-74E5-4CF6-89D4-71E779EE76AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{B6FD5223-8A70-4256-88FE-B5F667030114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDDF60B-B970-4A82-8566-9365A63F40F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDDF60B-B970-4A82-8566-9365A63F40F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDDF60B-B970-4A82-8566-9365A63F40F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDDF60B-B970-4A82-8566-9365A63F40F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81E7781-86D8-426B-8182-6DD341B652A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81E7781-86D8-426B-8182-6DD341B652A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81E7781-86D8-426B-8182-6DD341B652A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81E7781-86D8-426B-8182-6DD341B652A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8CAC87-74E5-4CF6-89D4-71E779EE76AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8CAC87-74E5-4CF6-89D4-71E779EE76AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8CAC87-74E5-4CF6-89D4-71E779EE76AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8CAC87-74E5-4CF6-89D4-71E779EE76AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FD5223-8A70-4256-88FE-B5F667030114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FD5223-8A70-4256-88FE-B5F667030114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FD5223-8A70-4256-88FE-B5F667030114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FD5223-8A70-4256-88FE-B5F667030114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27FFEE8D-6CEC-4329-985B-A9F0179432FB}
+	EndGlobalSection
+EndGlobal
