@@ -8,5 +8,6 @@ namespace DAL.DTO
 {
     internal class ProductDTO
     {
+
     }
 }

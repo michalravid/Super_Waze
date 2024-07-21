@@ -21,6 +21,5 @@ namespace MODELS
         public int Count_Products { get; set; }
         public int Id_Shop { get; set; }
         public Shop Shop  { get; set; }
-        public ICollection<Customer> Customers { get; set; }
     }
 }

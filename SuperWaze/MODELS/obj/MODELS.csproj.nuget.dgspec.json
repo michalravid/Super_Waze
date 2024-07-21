@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\MODELS\\MODELS.csproj": {}
+    "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\.Net Core\\SuperWaze\\MODELS\\MODELS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\MODELS\\MODELS.csproj": {
+    "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\.Net Core\\SuperWaze\\MODELS\\MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\MODELS\\MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\.Net Core\\SuperWaze\\MODELS\\MODELS.csproj",
         "projectName": "MODELS",
-        "projectPath": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\MODELS\\MODELS.csproj",
+        "projectPath": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\.Net Core\\SuperWaze\\MODELS\\MODELS.csproj",
         "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\SuperWaze\\MODELS\\obj\\",
+        "outputPath": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\.Net Core\\SuperWaze\\MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
