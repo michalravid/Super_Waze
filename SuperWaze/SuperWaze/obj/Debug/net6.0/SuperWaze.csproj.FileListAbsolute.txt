@@ -134,3 +134,6 @@ C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\obj
 C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\obj\Debug\net6.0\SuperWaze.csproj.Up2Date
 C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\obj\Debug\net6.0\SuperWaze.genruntimeconfig.cache
 C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\obj\Debug\net6.0\ref\SuperWaze.dll
+C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\obj\Debug\net6.0\SuperWaze.MvcApplicationPartsAssemblyInfo.cs
