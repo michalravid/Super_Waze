@@ -1,0 +1,28 @@
+2024-07-24 06:33:20.439 +03:00 [INF] User profile is available. Using 'C:\Users\A\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-24 06:33:21.220 +03:00 [INF] Now listening on: https://localhost:7096
+2024-07-24 06:33:21.221 +03:00 [INF] Now listening on: http://localhost:5054
+2024-07-24 06:33:21.227 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-24 06:33:21.228 +03:00 [INF] Hosting environment: Development
+2024-07-24 06:33:21.228 +03:00 [INF] Content root path: C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\
+2024-07-24 06:33:23.387 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/index.html - -
+2024-07-24 06:33:24.265 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - -
+2024-07-24 06:33:24.269 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/index.html - - - 200 - text/html;charset=utf-8 888.0629ms
+2024-07-24 06:33:24.341 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - - - 200 13754 application/javascript;+charset=utf-8 76.5573ms
+2024-07-24 06:33:24.360 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/_vs/browserLink - -
+2024-07-24 06:33:24.599 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 239.2756ms
+2024-07-24 06:33:24.744 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - -
+2024-07-24 06:33:25.060 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 315.5782ms
+2024-07-24 06:35:48.577 +03:00 [INF] User profile is available. Using 'C:\Users\A\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-24 06:35:49.182 +03:00 [INF] Now listening on: https://localhost:7096
+2024-07-24 06:35:49.182 +03:00 [INF] Now listening on: http://localhost:5054
+2024-07-24 06:35:49.193 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-24 06:35:49.194 +03:00 [INF] Hosting environment: Development
+2024-07-24 06:35:49.194 +03:00 [INF] Content root path: C:\Users\A\Michal\learning\B\.Net core_Angular\.Net Core\SuperWaze\SuperWaze\
+2024-07-24 06:35:49.865 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/index.html - -
+2024-07-24 06:35:50.476 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/index.html - - - 200 - text/html;charset=utf-8 617.4701ms
+2024-07-24 06:35:50.507 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/_vs/browserLink - -
+2024-07-24 06:35:50.507 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - -
+2024-07-24 06:35:50.520 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - - - 200 13754 application/javascript;+charset=utf-8 12.7966ms
+2024-07-24 06:35:50.661 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 154.0920ms
+2024-07-24 06:35:51.076 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - -
+2024-07-24 06:35:51.362 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 285.3687ms
