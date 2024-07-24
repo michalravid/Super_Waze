@@ -8,12 +8,21 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using BL;
 using SuperWaze.Middleware;
-using Microsoft.OpenApi.Models;  // הוסף את השורה הזו
+using Microsoft.OpenApi.Models;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// קביעת הגדרות Serilog
+Log.Logger = new LoggerConfiguration()
+    //.WriteTo.Console() // כתיבה לקונסולה
+    .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day) // כתיבה לקובץ עם תחלופה יומית
+    .CreateLogger();
 
+// הגדרת Serilog כ-Logging Provider
+builder.Host.UseSerilog();
+
+// Add services to the container.
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -87,8 +96,9 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Add custom JWT middleware
-app.UseMiddleware<JwtMiddleware>();  // שורה זו נוספה
+// Add middlewares
+app.UseMiddleware<JwtMiddleware>();
+app.UseMiddleware<LogMiddleware>();
 
 app.MapControllers();
 
