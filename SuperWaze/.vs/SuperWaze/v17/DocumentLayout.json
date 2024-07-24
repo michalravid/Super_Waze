@@ -50,8 +50,7 @@
               "RelativeToolTip": "MODELS\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:40:49.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T21:40:49.859Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "BL\\JWT.cs",
               "ToolTip": "C:\\Users\\A\\Michal\\learning\\B\\.Net core_Angular\\.Net Core\\SuperWaze\\BL\\JWT.cs",
               "RelativeToolTip": "BL\\JWT.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAiwDQAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvzQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T21:40:00.318Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "SuperWaze\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-22T16:35:59.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T16:35:59.081Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "SuperWaze\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:32:33.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T16:32:33.179Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "SuperWaze\\Controllers\\CustomerController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA2wCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:31:58.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T16:31:58.338Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\ICustomer.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:48:58.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T15:48:58.972Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "SuperWaze\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T13:06:13.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T13:06:13.49Z"
             }
           ]
         }
