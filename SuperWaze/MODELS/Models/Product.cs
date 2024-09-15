@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace MODELS
 {
-    struct Location{
-        int i;
-        int j;
-    }
     public class Product
     {
         public string  Name { get; set; }
@@ -21,5 +17,8 @@ namespace MODELS
         public int Count_Products { get; set; }
         public int Id_Shop { get; set; }
         public Shop Shop  { get; set; }
+        public int PositionX { get; set; }  // מיקום X בחנות
+        public int PositionY { get; set; }  // מיקום Y בחנות
+
     }
 }

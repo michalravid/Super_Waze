@@ -7,6 +7,7 @@ using DAL.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using MODELS;
 using MODELS.Models;
+
 namespace DAL.Data
 {
     public class CustomerData: ICustomer
@@ -28,5 +29,6 @@ namespace DAL.Data
             Customer customer = await _context.Customers.SingleOrDefaultAsync(x => x.Id_Customer == id);
             return customer;
         }
+      
     }
 }
