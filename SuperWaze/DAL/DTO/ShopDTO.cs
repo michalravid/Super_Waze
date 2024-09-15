@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DAL.DTO
 {
-    internal class ShopDTO
+    public class ShopDTO
     {
+        public int Id_Shop { get; set; }
+        public string Name { get; set; }
+        public bool[,] MapMatrix { get; set; } // מטריצה שלא תמופה ישירות ל-DB
     }
 }

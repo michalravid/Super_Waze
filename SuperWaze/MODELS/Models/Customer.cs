@@ -10,7 +10,6 @@ namespace MODELS
     {
         public string Name { get; set; }
         public int Id_Customer { get; set; }
-        public ICollection<Product> Cart { get; set; }
-        public ICollection<Shop> Shops { get; set; }
+       
     }
 }
