@@ -25,7 +25,7 @@ namespace MODELS.Models
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer(
-                    "Data Source='your DB name';Initial Catalog=Super-Waze;Integrated Security=SSPI;Trusted_Connection=True;",
+                    "Data Source=localhost\\SQLEXPRESS;Initial Catalog=Super-Waze;Integrated Security=SSPI;Trusted_Connection=True;",
                     b => b.MigrationsAssembly("Super Waze"));
             }
         }

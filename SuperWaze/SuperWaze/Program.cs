@@ -57,7 +57,7 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-builder.Services.AddDbContext<ProjectContext>(op => op.UseSqlServer("Data Source=RUTI\\SQLEXPRESS;Initial Catalog=Super-Waze;Integrated Security=SSPI;Trusted_Connection=True;"));
+builder.Services.AddDbContext<ProjectContext>(op => op.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=Super-Waze;Integrated Security=SSPI;Trusted_Connection=True;"));
 builder.Services.AddScoped<IShop, ShopData>();
 builder.Services.AddScoped<ICustomer, CustomerData>();
 builder.Services.AddScoped<IProduct, ProductData>();
@@ -86,8 +86,12 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Super_Waze API v1");
+    });
 }
 
 app.UseHttpsRedirection();

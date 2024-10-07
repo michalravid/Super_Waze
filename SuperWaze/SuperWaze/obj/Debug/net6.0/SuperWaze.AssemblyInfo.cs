@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperWaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f0fc1d23c48c3b4c57df583f9aaf80b38fa1dc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9fba4a26a4795a0695d7708eef491c3ed6aace8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperWaze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperWaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
