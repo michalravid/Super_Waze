@@ -28,26 +28,5 @@ SuperWaze היא מערכת ניווט חכמה לסופרמרקט, שמאפשר
 1. Clone את הריפוזיטורי:
 ```bash
 git clone https://github.com/michalravid/Super_Waze.git
-
 npm install
-
-node BL/superWaze.js
-## 🧪 דוגמת שימוש
-```javascript
-const superWaze = require('./BL/superWaze');
-const route = superWaze.calculateRoute(['חלב', 'לחם', 'ביצים']);
-console.log(route);
-
----
-
-### 👩‍💻 על המפתחת (About the Developer)
-```markdown
-## 👩‍💻 על המפתחת
-SuperWaze נבנה על ידי **מיכל רביד**, מפתחת Full Stack PHP ו-WordPress עם ניסיון בפרויקטים מקצה לקצה, אינטגרציה עם APIs ועבודה עם React ו-Electron.  
-אני אוהבת לכתוב קוד נקי, מסודר ובטוח, עם דגש על **חשיבה מערכתית, פתרון בעיות מורכבות וחוויית משתמש מדויקת**.
-## 📌 הערות
-- כרגע הפרויקט נמצא בשלבי פיתוח מוקדמים – צד השרת (BL, DAL, MODELS) פעיל, אך צד הלקוח (Client) עדיין בתהליך פיתוח.  
-- האלגוריתמים לחישוב המסלול עובדים, אך עשויים להשתפר ולהיות אופטימיים יותר בעתיד.  
-- מתוכננים שיפורים נוספים: חיבור צד הלקוח, שיפור לוגיקה, אופטימיזציה של ביצועים, ושדרוג חוויית המשתמש.
-
-
+node SuperWaze/SuperWaze.js
